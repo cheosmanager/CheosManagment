@@ -1,0 +1,27 @@
+{
+  "name": "Cheo's Café Manager",
+  "short_name": "Cheo's Café",
+  "description": "Facturación, inventario, producción y cartera de Cheo's Café.",
+  "lang": "es-CO",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f4ef",
+  "theme_color": "#6F4E37",
+  "icons": [
+    {
+      "src": "/logo-cheos.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo-cheos.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
